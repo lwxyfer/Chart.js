@@ -19,4 +19,3 @@ For support using Chart.js, please post questions with the [`chartjs` tag on Sta
 
 Chart.js is available under the [MIT license](http://opensource.org/licenses/MIT).
 
-LEARNING
